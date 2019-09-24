@@ -1,5 +1,5 @@
 {
-    "name": "atiksoftware/opencart-api",
+    "name": "atiksoftware/php-class-opencart",
     "description": "Opencart api module",
     "type": "project",
     "license": "MIT",
