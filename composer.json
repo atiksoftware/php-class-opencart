@@ -1,0 +1,21 @@
+{
+    "name": "atiksoftware/opencart-api",
+    "description": "Opencart api module",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mansur Atik",
+            "email": "atiksoftware@gmail.com"
+        }
+    ],
+	"require": {
+        "atiksoftware/php-class-db-pdo": "^1.0",
+        "ramsey/uuid": "^3.8"
+    },
+    "autoload": {
+		"psr-4" : {
+			"Atiksoftware\\Opencart\\" : "src"
+		}
+    }
+}
